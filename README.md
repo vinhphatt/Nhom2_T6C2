@@ -12,7 +12,7 @@ Dự án **Ứng dụng Nhà sách Every Taste** là nền tảng sách trực t
 - **Tìm kiếm sách:** Tìm kiếm nhanh chóng theo tên, thể loại để dễ dàng tìm ra đầu sách mong muốn.
 - **Giỏ hàng:** Thêm sách vào giỏ hàng, điều chỉnh số lượng, và quản lý đơn hàng tiện lợi.
 - **Quản lý tài khoản:** Đăng ký, đăng nhập và chỉnh sửa thông tin cá nhân một cách nhanh chóng.
-- **Thanh toán trực tuyến:** Đảm bảo an toàn với nhiều phương thức thanh toán trực tuyến.
+- **Thanh toán trực tuyến:** Đảm bảo an toàn với phương thức thanh toán trực tuyến.
 - **Lịch sử đơn hàng:** Xem lại các đơn hàng đã đặt với thông tin chi tiết và trạng thái đơn hàng.
 
 ### 🛠️ Dành cho Quản trị viên:
